@@ -1,0 +1,308 @@
+[
+{
+  "license_number": "123456789",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1945-06-15",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "234567890",
+  "driver_type": "มือใหม่",
+  "birth_date": "1970-09-22",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "345678901",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1955-02-11",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "456789012",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "2008-12-30",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "567890123",
+  "driver_type": "มือใหม่",
+  "birth_date": "2010-07-19",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "678901234",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "2005-05-24",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "789012345",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1995-04-14",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "890123456",
+  "driver_type": "มือใหม่",
+  "birth_date": "2005-10-03",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "901234567",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1983-11-29",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "112233445",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1975-08-08",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "223344556",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1948-03-12",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "334455667",
+  "driver_type": "มือใหม่",
+  "birth_date": "1980-11-25",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "445566778",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1962-07-09",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "556677889",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "2009-05-30",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "667788990",
+  "driver_type": "มือใหม่",
+  "birth_date": "2012-09-18",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "778899001",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "2004-02-22",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "889900112",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1990-06-11",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "990011223",
+  "driver_type": "มือใหม่",
+  "birth_date": "2007-03-29",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "101122334",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1985-12-14",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444444",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1978-03-15",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444445",
+  "driver_type": "มือใหม่",
+  "birth_date": "1992-11-08",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444446",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1965-07-22",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444447",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "2001-09-30",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444448",
+  "driver_type": "มือใหม่",
+  "birth_date": "1988-04-17",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444449",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1973-12-05",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444450",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1995-08-19",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444451",
+  "driver_type": "มือใหม่",
+  "birth_date": "2003-02-28",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444452",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1982-06-14",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444453",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1969-10-25",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444454",
+  "driver_type": "มือใหม่",
+  "birth_date": "1997-01-03",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444455",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1958-05-11",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444456",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "2006-07-29",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444457",
+  "driver_type": "มือใหม่",
+  "birth_date": "1984-12-16",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444458",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1971-04-02",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444459",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1993-08-21",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444460",
+  "driver_type": "มือใหม่",
+  "birth_date": "2008-11-07",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444461",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1967-03-25",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444462",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1999-06-13",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444463",
+  "driver_type": "มือใหม่",
+  "birth_date": "1986-10-30",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444464",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1974-02-18",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444465",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1991-05-09",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444466",
+  "driver_type": "มือใหม่",
+  "birth_date": "2004-09-26",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444467",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1979-01-14",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444468",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1963-07-31",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444469",
+  "driver_type": "มือใหม่",
+  "birth_date": "1996-12-19",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444470",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1955-04-07",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444471",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "2002-08-24",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444472",
+  "driver_type": "มือใหม่",
+  "birth_date": "1983-01-11",
+  "license_status": "หมดอายุ"
+},
+{
+  "license_number": "444444473",
+  "driver_type": "คนขับรถสาธารณะ",
+  "birth_date": "1970-05-28",
+  "license_status": "ถูกระงับ"
+},
+{
+  "license_number": "444444474",
+  "driver_type": "บุคคลทั่วไป",
+  "birth_date": "1994-10-15",
+  "license_status": "ปกติ"
+},
+{
+  "license_number": "444444475",
+  "driver_type": "มือใหม่",
+  "birth_date": "2007-02-03",
+  "license_status": "หมดอายุ"
+}
+]
